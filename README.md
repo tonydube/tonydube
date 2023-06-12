@@ -26,7 +26,7 @@ class About extends Me {
         },
         {
           name: 'EggFlip',
-          description: 'Breakfast Recipt App',
+          description: 'Breakfast Recipe App',
           website: 'https://eggflip.ajdube.com/',
           technologies: ['Python', 'Django', 'Django REST Framework', 'PostgreSQL',
             'Docker', 'Swagger', 'Github Actions']
