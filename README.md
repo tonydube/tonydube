@@ -16,7 +16,7 @@ class About extends Me {
           description: 'Issue Tracking System',
           website: 'https://fragility.ajdube.com/',
           technologies: ['Vue.js', 'Node.js', 'Express.js', 'MySQL', 'Vite',
-            'Vuetify', 'Vue Router', 'Pinia', 'Inkscape']
+            'Quasar', 'Vue Router', 'Pinia', 'Inkscape']
         },
         {
           name: 'Tangle',
