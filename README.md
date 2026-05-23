@@ -2,7 +2,7 @@
 
 Full-stack software engineer building AI products, simulations, and web apps.
 
-## Projects
+## Current Projects
 
 | Project | Description |
 |---|---|
